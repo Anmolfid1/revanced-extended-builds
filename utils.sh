@@ -354,7 +354,7 @@ build_rv() {
 				if [ -z "${args[apkmonk_dlurl]}" ]; then continue; fi
 				if [ -z "${apkmonk_resp:-}" ]; then apkmonk_resp=$(get_apkmonk_resp "${args[apkmonk_dlurl]}"); fi
 				pr "Downloading '${app_name}' from Apkmonk"
-				if ! declare -r dl_url=$(dl_apkmonk "$apkmonk_resp" "$version" "$stock_apk"); then
+				if ! dl_apkmonk "$apkmonk_resp" "$version" "$stock_apk"; then
 					epr "ERROR: Could not download ${app_name} from Apkmonk"
 					continue
 				fi

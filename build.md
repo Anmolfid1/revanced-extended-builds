@@ -1,4 +1,4 @@
-CLI: revanced-cli-2.21.2-all.jar  
+CLI: revanced-cli-2.21.4-all.jar  
 Integrations: revanced-integrations-0.107.10.apk  
 Patches: revanced-patches-2.173.10.jar  
 
@@ -27,10 +27,12 @@ YouTube Music
 - [Other Countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
-Music-arm64 (arm64-v8a): 6.01.55
-downloaded from: [APKMirror - Music-arm64 (arm64-v8a)](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-01-55-release/youtube-music-6-01-55-android-apk-download/)  
 YouTube: 18.17.43
 downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-17-43-release/youtube-18-17-43-android-apk-download/)  
+Music-arm64 (arm64-v8a): 6.06.52
+downloaded from: [APKMirror - Music-arm64 (arm64-v8a)](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-06-52-release/youtube-music-6-06-52-android-apk-download/)  
+Tiktok: 27.2.5
+downloaded from: [APKMirror - Tiktok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-27-2-5-release/tiktok-27-2-5-android-apk-download/)  
 
 Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
